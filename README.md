@@ -1,4 +1,4 @@
-Interfaz Grafica de usuario, inici de sesión:
+Interfaz Grafica de usuario, inicio de sesión:
 
 Este código implementa una interfaz gráfica de inicio de sesión (Login) utilizando la biblioteca Tkinter de Python. La interfaz consta de una pequeña ventana con dos campos de entrada (usuario y contraseña) y un botón para iniciar sesión.
 
