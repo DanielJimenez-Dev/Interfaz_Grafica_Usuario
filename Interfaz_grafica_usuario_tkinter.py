@@ -39,7 +39,7 @@ class LoginVentana(tk.Tk):
 
 
     def _login(self):
-       messagebox.showwarning('Datos Login', f'Bienvenido: {self.usuario_entrada.get()}')
+       messagebox.showinfo('Datos Login', f'Bienvenido: {self.usuario_entrada.get()}')
 
 # Ejecutar venta
 if __name__ == '__main__':
